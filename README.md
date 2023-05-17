@@ -2,7 +2,7 @@
 Desafios de del programa de Oracle-Alura LATAM Segundo Challenge - Desarrollo de una API REST con Java en Spring Boot 3.0.  
 
 <p align="center" dir="auto">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/JAVA/API%20REST/imageAPIrEST.png" width="80%">
+<img align="center" src="https://www.servicetonic.com/wp-content/uploads/2020/10/API-Interface-Servicetonic.png" width="80%">
 </p>
 
 ## Descripción
