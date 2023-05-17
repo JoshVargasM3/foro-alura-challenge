@@ -28,7 +28,7 @@ Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/foro
 
 ### Aplicación
 
-Después de descargar el proyecto, puede abrir el "**archivo ejecutable: AppConversor.java**" con `ECLIPSE`, `Intellij IDEA` o cualquier IDE de su preferencia. Para hacer esto, en la pantalla de inicio, 
+Después de descargar el proyecto, puede abrir el "**archivo ejecutable: ApiApplication.java**" con `ECLIPSE`, `Intellij IDEA` o cualquier IDE de su preferencia. Para hacer esto, en la pantalla de inicio, 
 haga clic en:
 
 - Abrir un proyecto existente (O alguna opción similar);
