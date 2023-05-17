@@ -23,7 +23,7 @@ Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/foro
 <p align="center" dir="auto">
   
 
-<img align="center" src="https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e47wnuasv1zqc3lajinrp9um8p7wn2q639ptlkq3d86&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70%">
+<img align="center" src="https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e47wnuasv1zqc3lajinrp9um8p7wn2q639ptlkq3d86&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%">
 </p>
 
 ### Aplicación
