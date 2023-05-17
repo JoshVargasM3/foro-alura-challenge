@@ -56,6 +56,9 @@ Principalmente se desarrollo dentro del IDE de _Intellij IDEA_, empleando el **l
 
 :heavy_check_mark: `Funcionalidad 3:` Implementación de una base de datos para la persistencia de la información.
 
+## INSIGNIA
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/CERTIFICATES/ORACLE/INSIGNIAS/CHALLENGE-API_REST.png" width="100%">
+</p>
 
 ## Agradecimientos
 
